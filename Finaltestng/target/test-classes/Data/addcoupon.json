@@ -1,0 +1,45 @@
+{
+"Valid":{
+
+"uname":"mainhub@gmail.com",
+"pw":"123456",
+"cc":"CPKP123"
+},
+
+"Invalidspecial":{
+"uname":"mainhub@gmail.com",
+"pw":"123456",
+"cc":"#$%^"
+},
+
+"Invalidnum":{
+"uname":"mainhub@gmail.com",
+"pw":"123456",
+"cc":"1233434"
+},
+
+"Invalidspaces":{
+"uname":"mainhub@gmail.com",
+"pw":"123456",
+"cc":"ASD 12 yu"
+},
+
+"Invaliddoubspaces":{
+"uname":"mainhub@gmail.com",
+"pw":"123456",
+"cc":"ASD  12  yu"
+},
+
+"Invalidnumspecial":{
+"uname":"mainhub@gmail.com",
+"pw":"123456",
+"cc":"ASD  12  yu"
+},
+"Invalidalphaspecial":{
+"uname":"mainhub@gmail.com",
+"pw":"123456",
+"cc":"ASD#$%@#%"
+}
+
+
+}

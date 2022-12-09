@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Updatecategory" verbose="1">
+<test name="Updatecategory_Testcase">
+<parameter name="Browser" value="chrome"/>
+<parameter name="url" value="https://products.pisystindia.com/Ecommerce/admin"/>
+<classes>
+<class name="Testcase.Updatecategory_Testcase"/>
+</classes>
+</test>
+</suite>
